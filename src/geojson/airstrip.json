@@ -1,0 +1,125 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -1.7976931348623155e+308,
+                    -1.7976931348623155e+308
+                ]
+            },
+            "properties": {
+                "ID": 0,
+                "NAME": "",
+                "Comment": "Not Existing"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    25.93371562417781,
+                    -15.966208203149911
+                ]
+            },
+            "properties": {
+                "ID": 0,
+                "NAME": "Ngoma Airstrip",
+                "Comment": "Existing"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    25.987092522357436,
+                    -15.054343673966747
+                ]
+            },
+            "properties": {
+                "ID": 0,
+                "NAME": "Chunga Airstrip",
+                "Comment": "Existing"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    26.15916172345034,
+                    -14.41190380810333
+                ]
+            },
+            "properties": {
+                "ID": 0,
+                "NAME": "",
+                "Comment": "Not existing"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    26.384728857784516,
+                    -14.653575098810782
+                ]
+            },
+            "properties": {
+                "ID": 0,
+                "NAME": "",
+                "Comment": "Not Existing"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    26.35120086638235,
+                    -14.175441790937265
+                ]
+            },
+            "properties": {
+                "ID": 0,
+                "NAME": "",
+                "Comment": "Not Existing"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    25.553051590433853,
+                    -14.253441948328543
+                ]
+            },
+            "properties": {
+                "ID": 0,
+                "NAME": "Lushimba Airstrip",
+                "Comment": "Existing"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    25.870236257481892,
+                    -14.08255697759906
+                ]
+            },
+            "properties": {
+                "ID": 0,
+                "NAME": "Masozhi Airstrip",
+                "Comment": "Existing"
+            }
+        }
+    ]
+}

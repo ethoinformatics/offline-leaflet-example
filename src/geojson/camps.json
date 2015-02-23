@@ -1,0 +1,563 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    25.67759,
+                    -16.135468
+                ]
+            },
+            "properties": {
+                "ID_": "RICHARD1",
+                "NAME1_": "Kaunga Camp",
+                "AMU": "Ngoma",
+                "ESTABLISHM": 0,
+                "STATUS": "Unmanned",
+                "staff": 6
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    25.413486,
+                    -15.969982000000002
+                ]
+            },
+            "properties": {
+                "ID_": "RICHARD3",
+                "NAME1_": "Katoka Camp",
+                "AMU": "Ngoma",
+                "ESTABLISHM": 0,
+                "STATUS": "Unmanned",
+                "staff": 6
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    25.301364,
+                    -15.536711999999998
+                ]
+            },
+            "properties": {
+                "ID_": "RICHARD4",
+                "NAME1_": "Katobo Camp",
+                "AMU": "Ngoma",
+                "ESTABLISHM": 0,
+                "STATUS": "Unmanned",
+                "staff": 6
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    25.46465586987043,
+                    -14.897452048056419
+                ]
+            },
+            "properties": {
+                "ID_": "RICHARD6",
+                "NAME1_": "Tateyoyo Gate",
+                "AMU": "Chunga",
+                "ESTABLISHM": 24,
+                "STATUS": " Manned",
+                "staff": 24
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    25.551612,
+                    -14.659175
+                ]
+            },
+            "properties": {
+                "ID_": "RICHARD7",
+                "NAME1_": "Chibulukushu Camp",
+                "AMU": "Chunga",
+                "ESTABLISHM": 0,
+                "STATUS": "Unmanned",
+                "staff": 3
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    26.458169674878384,
+                    -14.569106596056299
+                ]
+            },
+            "properties": {
+                "ID_": "RICHARD9",
+                "NAME1_": "Lubungu Pontoon",
+                "AMU": "Chunga",
+                "ESTABLISHM": 0,
+                "STATUS": "Unmanned",
+                "staff": 8
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    26.654087999999998,
+                    -14.679499
+                ]
+            },
+            "properties": {
+                "ID_": "RICHARD10",
+                "NAME1_": "Kabulushi Camp",
+                "AMU": "Chunga",
+                "ESTABLISHM": 0,
+                "STATUS": "Unmanned",
+                "staff": 8
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    26.711130105768294,
+                    -14.970637157896881
+                ]
+            },
+            "properties": {
+                "ID_": "RICHARD11",
+                "NAME1_": "Nalusanga Gate",
+                "AMU": "Chunga",
+                "ESTABLISHM": 32,
+                "STATUS": " Manned",
+                "staff": 32
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    25.996227342493885,
+                    -15.042968731179247
+                ]
+            },
+            "properties": {
+                "ID_": "RICHARD13",
+                "NAME1_": "Chunga Park HQ.",
+                "AMU": "Chunga",
+                "ESTABLISHM": 38,
+                "STATUS": "AMU HQ",
+                "staff": 100
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    25.947530464332207,
+                    -15.920110478070486
+                ]
+            },
+            "properties": {
+                "ID_": "RICHARD19",
+                "NAME1_": "Ngoma Park HQ.",
+                "AMU": "Ngoma",
+                "ESTABLISHM": 75,
+                "STATUS": "AMU HQ",
+                "staff": 112
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    25.984147999999998,
+                    -16.026360999999998
+                ]
+            },
+            "properties": {
+                "ID_": "RICHARD20",
+                "NAME1_": "Ibulamuzhi Camp",
+                "AMU": "Ngoma",
+                "ESTABLISHM": 0,
+                "STATUS": "Unmanned",
+                "staff": 2
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    26.73022,
+                    -15.066582
+                ]
+            },
+            "properties": {
+                "ID_": "RICHARD22",
+                "NAME1_": "Kapepe Camp",
+                "AMU": "Chunga",
+                "ESTABLISHM": 7,
+                "STATUS": "Unmanned",
+                "staff": 8
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    26.1195984924707,
+                    -14.09254992900948
+                ]
+            },
+            "properties": {
+                "ID_": "RICHARD25",
+                "NAME1_": "Kabanga Gate",
+                "AMU": "Chunga",
+                "ESTABLISHM": 11,
+                "STATUS": " Manned",
+                "staff": 6
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    26.480887249487797,
+                    -14.192293161095344
+                ]
+            },
+            "properties": {
+                "ID_": "RICHARD27",
+                "NAME1_": "Lupemba Camp",
+                "AMU": "Chunga",
+                "ESTABLISHM": 0,
+                "STATUS": "Unmanned",
+                "staff": 5
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    26.025244939670408,
+                    -16.688311315538563
+                ]
+            },
+            "properties": {
+                "ID_": "RICHARD28",
+                "NAME1_": "Dundumwezi Gate",
+                "AMU": "Ngoma",
+                "ESTABLISHM": 9,
+                "STATUS": " Manned",
+                "staff": 41
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    25.727463999999998,
+                    -16.465961999999998
+                ]
+            },
+            "properties": {
+                "ID_": "RICHARD29",
+                "NAME1_": "Kalumbu Camp",
+                "AMU": "Ngoma",
+                "ESTABLISHM": 0,
+                "STATUS": "Unmanned",
+                "staff": 6
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    25.996765991031094,
+                    -16.20550672229594
+                ]
+            },
+            "properties": {
+                "ID_": "RICHARD21~1",
+                "NAME1_": "KalenjeCamp",
+                "AMU": "Ngoma",
+                "ESTABLISHM": 0,
+                "STATUS": "Unmanned",
+                "staff": 6
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    25.86931759635066,
+                    -15.77066528299015
+                ]
+            },
+            "properties": {
+                "ID_": "RICHARD110",
+                "NAME1_": "Malala Camp",
+                "AMU": "Ngoma",
+                "ESTABLISHM": 0,
+                "STATUS": "Unmanned",
+                "staff": 6
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    25.99973594047304,
+                    -15.7973833537134
+                ]
+            },
+            "properties": {
+                "ID_": "RICHARD111",
+                "NAME1_": "Musa Gate",
+                "AMU": "Ngoma",
+                "ESTABLISHM": 7,
+                "STATUS": " Manned",
+                "staff": 12
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    26.248693053891806,
+                    -15.275265187806848
+                ]
+            },
+            "properties": {
+                "ID_": "RICHARD112",
+                "NAME1_": "Mweengwa Gate",
+                "AMU": "Ngoma",
+                "ESTABLISHM": 18,
+                "STATUS": " Manned",
+                "staff": 10
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    26.019136999999997,
+                    -15.890969
+                ]
+            },
+            "properties": {
+                "ID_": "RICHARD113",
+                "NAME1_": "Shanangoma Camp",
+                "AMU": "Ngoma",
+                "ESTABLISHM": 0,
+                "STATUS": "Unmanned",
+                "staff": 9
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    26.449236,
+                    -14.982140999999999
+                ]
+            },
+            "properties": {
+                "ID_": "RICHARD114",
+                "NAME1_": "Kacheleko Camp",
+                "AMU": "Chunga",
+                "ESTABLISHM": 6,
+                "STATUS": "Unmanned",
+                "staff": 6
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    25.403405,
+                    -15.189233000000002
+                ]
+            },
+            "properties": {
+                "ID_": "RICHARD115",
+                "NAME1_": "Kamano Camp",
+                "AMU": "Chunga",
+                "ESTABLISHM": 0,
+                "STATUS": "Unmanned",
+                "staff": 6
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    25.293723999999997,
+                    -15.722809999999999
+                ]
+            },
+            "properties": {
+                "ID_": "RICHARD116",
+                "NAME1_": "Mufunta Camp",
+                "AMU": "Ngoma",
+                "ESTABLISHM": 0,
+                "STATUS": "Unmanned",
+                "staff": 6
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    25.904168318501817,
+                    -14.94434912188628
+                ]
+            },
+            "properties": {
+                "ID_": "RICHARD117",
+                "NAME1_": "Kafue Hook Bridge",
+                "AMU": "Chunga",
+                "ESTABLISHM": 2,
+                "STATUS": " Manned",
+                "staff": 6
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    26.133018999999997,
+                    -15.026478
+                ]
+            },
+            "properties": {
+                "ID_": "RICHARD118",
+                "NAME1_": "Nangoma Camp",
+                "AMU": "Chunga",
+                "ESTABLISHM": 0,
+                "STATUS": "Unmanned",
+                "staff": 6
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    25.87156986566214,
+                    -14.088987807888603
+                ]
+            },
+            "properties": {
+                "ID_": "",
+                "NAME1_": "Masozhi Camp",
+                "AMU": "Chunga",
+                "ESTABLISHM": 10,
+                "STATUS": " Manned",
+                "staff": 6
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    25.566936100635605,
+                    -14.245865894199783
+                ]
+            },
+            "properties": {
+                "ID_": "",
+                "NAME1_": "Lushimba Camp",
+                "AMU": "Chunga",
+                "ESTABLISHM": 0,
+                "STATUS": "Unmanned",
+                "staff": 6
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    26.44919549753158,
+                    -14.552187172130116
+                ]
+            },
+            "properties": {
+                "ID_": "",
+                "NAME1_": "Kafue Pontoon",
+                "AMU": "Chunga",
+                "ESTABLISHM": 0,
+                "STATUS": "Unmanned",
+                "staff": 6
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    25.992191130216824,
+                    -15.510200800614903
+                ]
+            },
+            "properties": {
+                "ID_": "",
+                "NAME1_": "Itumbi Camp",
+                "AMU": "Ngoma",
+                "ESTABLISHM": 0,
+                "STATUS": "Unmanned",
+                "staff": 6
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    26.68736866,
+                    -15.296809420000002
+                ]
+            },
+            "properties": {
+                "ID_": "",
+                "NAME1_": "Tepula Camp",
+                "AMU": "Chunga",
+                "ESTABLISHM": 0,
+                "STATUS": "Manned",
+                "staff": 6
+            }
+        }
+    ]
+}

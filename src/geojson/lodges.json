@@ -1,0 +1,805 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    26.04518166850813,
+                    -14.898970258877108
+                ]
+            },
+            "properties": {
+                "ID_": "RICHARD2",
+                "NAME1_": "Rose of Sharon",
+                "NAME2_": "",
+                "STATUS": "Inactive"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    26.191601636497246,
+                    -14.614421947683526
+                ]
+            },
+            "properties": {
+                "ID_": "RICHARD3",
+                "NAME1_": "Lufupa Lodge",
+                "NAME2_": "Existing",
+                "STATUS": "Active"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    25.91827550347265,
+                    -16.27759038281345
+                ]
+            },
+            "properties": {
+                "ID_": "RICHARD6",
+                "NAME1_": "Nanzhila",
+                "NAME2_": "Existing",
+                "STATUS": "Active"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    25.815736216747744,
+                    -14.209425679795023
+                ]
+            },
+            "properties": {
+                "ID_": "RICHARD7",
+                "NAME1_": "Kapinga Bush Camp",
+                "NAME2_": "Existing",
+                "STATUS": "Active"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    26.003342013296862,
+                    -15.786488913862922
+                ]
+            },
+            "properties": {
+                "ID_": "RICHARD9",
+                "NAME1_": "New Kalala Lodge",
+                "NAME2_": "Existing",
+                "STATUS": "Active"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    25.978250014543452,
+                    -15.213546279981118
+                ]
+            },
+            "properties": {
+                "ID_": "RICHARD10",
+                "NAME1_": "Puku pan Lodge",
+                "NAME2_": "Existing",
+                "STATUS": "Active"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    26.482751999999998,
+                    -14.542936
+                ]
+            },
+            "properties": {
+                "ID_": "RICHARD11",
+                "NAME1_": "Leopard Lodge",
+                "NAME2_": "Existing",
+                "STATUS": "Active"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    26.376540614774576,
+                    -14.677409727336041
+                ]
+            },
+            "properties": {
+                "ID_": "RICHARD12",
+                "NAME1_": "Hippo Lodge",
+                "NAME2_": "Existing",
+                "STATUS": "Active"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    26.00429101979052,
+                    -15.78217224175196
+                ]
+            },
+            "properties": {
+                "ID_": "",
+                "NAME1_": "Chibila Camp",
+                "NAME2_": "Existing",
+                "STATUS": "Active"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    26.028140177623577,
+                    -16.192252177785825
+                ]
+            },
+            "properties": {
+                "ID_": "",
+                "NAME1_": "Horn Bill Camp",
+                "NAME2_": "Existing",
+                "STATUS": "Active"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    25.981038219735904,
+                    -15.31244197539933
+                ]
+            },
+            "properties": {
+                "ID_": "",
+                "NAME1_": "Kaingu Lodge",
+                "NAME2_": "Existing",
+                "STATUS": "Active"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    25.993810922974085,
+                    -14.976697486971833
+                ]
+            },
+            "properties": {
+                "ID_": "",
+                "NAME1_": "Mukambi Lodge",
+                "NAME2_": "Existing",
+                "STATUS": "Active"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    25.864344655433285,
+                    -14.202884354561288
+                ]
+            },
+            "properties": {
+                "ID_": "",
+                "NAME1_": "Busanga Bush Camp",
+                "NAME2_": "Existing",
+                "STATUS": "Active"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    26.04173960488658,
+                    -14.402251916762538
+                ]
+            },
+            "properties": {
+                "ID_": "",
+                "NAME1_": "Treetops School Camp",
+                "NAME2_": "Existing",
+                "STATUS": "Active"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    26.106639442006905,
+                    -14.91537549641237
+                ]
+            },
+            "properties": {
+                "ID_": "",
+                "NAME1_": "Pro Africa Safari Camp",
+                "NAME2_": "Existing",
+                "STATUS": "Active"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    25.99982936444012,
+                    -15.043103460711698
+                ]
+            },
+            "properties": {
+                "ID_": "",
+                "NAME1_": "Chunga Safari Lodge",
+                "NAME2_": "Existing",
+                "STATUS": "Active"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    26.1612990121055,
+                    -14.404885335128295
+                ]
+            },
+            "properties": {
+                "ID_": "",
+                "NAME1_": "Moshi Camp",
+                "NAME2_": "Existing",
+                "STATUS": "Inactive"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    26.38513527596615,
+                    -14.689365681798616
+                ]
+            },
+            "properties": {
+                "ID_": "",
+                "NAME1_": "Mc Brides Camp",
+                "NAME2_": "Existing",
+                "STATUS": "Active"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    26.008007735499724,
+                    -15.038679489502895
+                ]
+            },
+            "properties": {
+                "ID_": "",
+                "NAME1_": "Njovu Safaris",
+                "NAME2_": "Existing",
+                "STATUS": "Inactive"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    26.036124406895564,
+                    -15.038085571370269
+                ]
+            },
+            "properties": {
+                "ID_": "",
+                "NAME1_": "Kafumba Kwale Community Lodge",
+                "NAME2_": "Existing",
+                "STATUS": "Active"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    26.18381093757946,
+                    -14.797630386903078
+                ]
+            },
+            "properties": {
+                "ID_": "",
+                "NAME1_": "Kafwala (WCES Camp)",
+                "NAME2_": "Existing",
+                "STATUS": "Active"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    26.18617442931078,
+                    -14.801734128033553
+                ]
+            },
+            "properties": {
+                "ID_": "",
+                "NAME1_": "Kafwala Rapids Lodge",
+                "NAME2_": "Existing",
+                "STATUS": "Inactive"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    26.357442451484076,
+                    -14.192878055355948
+                ]
+            },
+            "properties": {
+                "ID_": "",
+                "NAME1_": "Lunga River Lodge",
+                "NAME2_": "Existing",
+                "STATUS": "Active"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    25.746901239744368,
+                    -16.013629865198006
+                ]
+            },
+            "properties": {
+                "ID_": "",
+                "NAME1_": "Nkala Kaunga Camp",
+                "NAME2_": "",
+                "STATUS": "Inactive"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    26.003542356100493,
+                    -16.682213578015364
+                ]
+            },
+            "properties": {
+                "ID_": "",
+                "NAME1_": "Dundumwedzi Community Camping Site",
+                "NAME2_": "",
+                "STATUS": "Inactive"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    26.040215456750353,
+                    -14.375604042748696
+                ]
+            },
+            "properties": {
+                "ID_": "",
+                "NAME1_": "Ntemwa Lodge",
+                "NAME2_": "",
+                "STATUS": "Inactive"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    25.932381418318627,
+                    -15.836925531963407
+                ]
+            },
+            "properties": {
+                "ID_": "",
+                "NAME1_": "Site 3",
+                "NAME2_": "",
+                "STATUS": "High Value"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    26.065661210933328,
+                    -14.897723569926644
+                ]
+            },
+            "properties": {
+                "ID_": "",
+                "NAME1_": "Lilly of the Valley",
+                "NAME2_": "",
+                "STATUS": "Inactive"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    26.065571335915422,
+                    -14.918554413093679
+                ]
+            },
+            "properties": {
+                "ID_": "",
+                "NAME1_": "Mukombo",
+                "NAME2_": "Existing",
+                "STATUS": "Active"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    25.94850516147864,
+                    -15.15208140838198
+                ]
+            },
+            "properties": {
+                "ID_": "",
+                "NAME1_": "Kafue Luansanza Camp",
+                "NAME2_": "",
+                "STATUS": "Inactive"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    25.98412666024295,
+                    -15.08852812163934
+                ]
+            },
+            "properties": {
+                "ID_": "",
+                "NAME1_": "Shishamba Camp",
+                "NAME2_": "",
+                "STATUS": "Inactive"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    26.091549065539592,
+                    -14.73240098400569
+                ]
+            },
+            "properties": {
+                "ID_": "",
+                "NAME1_": "Mapunga Camp",
+                "NAME2_": "",
+                "STATUS": "Inactive"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    26.000916178148042,
+                    -15.791141410358202
+                ]
+            },
+            "properties": {
+                "ID_": "",
+                "NAME1_": "Musungwa Lodge",
+                "NAME2_": "Existing",
+                "STATUS": "Active"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    25.873240778391462,
+                    -14.218125601502758
+                ]
+            },
+            "properties": {
+                "ID_": "",
+                "NAME1_": "Shumba Bush Camp",
+                "NAME2_": "Existing",
+                "STATUS": "Active"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    25.820108233823127,
+                    -14.18214577689152
+                ]
+            },
+            "properties": {
+                "ID_": "",
+                "NAME1_": "Plains Camp Busanga",
+                "NAME2_": "Existing",
+                "STATUS": "Active"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    25.95500072974171,
+                    -15.911125002855684
+                ]
+            },
+            "properties": {
+                "ID_": "",
+                "NAME1_": "Ngoma Lodge",
+                "NAME2_": "",
+                "STATUS": "Inactive"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    26.125591078114475,
+                    -14.911112114761346
+                ]
+            },
+            "properties": {
+                "ID_": "",
+                "NAME1_": "Zamlodge",
+                "NAME2_": "Existing",
+                "STATUS": "Active"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    26.189661780045103,
+                    -14.880249091710478
+                ]
+            },
+            "properties": {
+                "ID_": "",
+                "NAME1_": "Site 1",
+                "NAME2_": "",
+                "STATUS": "High Value"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    25.879704844480283,
+                    -15.87481151989887
+                ]
+            },
+            "properties": {
+                "ID_": "",
+                "NAME1_": "Cook's Camp",
+                "NAME2_": "",
+                "STATUS": "Active"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    25.97407100481814,
+                    -14.965900060983362
+                ]
+            },
+            "properties": {
+                "ID_": "",
+                "NAME1_": "Heron Lodge",
+                "NAME2_": "",
+                "STATUS": "Active"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    26.188718893802502,
+                    -14.61160346053563
+                ]
+            },
+            "properties": {
+                "ID_": "",
+                "NAME1_": "Lufupa Tented Camp",
+                "NAME2_": "Existing",
+                "STATUS": "Active"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    26.521005967759876,
+                    -14.495884810266434
+                ]
+            },
+            "properties": {
+                "ID_": "",
+                "NAME1_": "Kafue River Camp",
+                "NAME2_": "Existing",
+                "STATUS": "Active"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    26.034858342047922,
+                    -14.389216780688676
+                ]
+            },
+            "properties": {
+                "ID_": "",
+                "NAME1_": "Musanza Camp",
+                "NAME2_": "Existing",
+                "STATUS": "Active"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    26.660256231826832,
+                    -14.472223901887364
+                ]
+            },
+            "properties": {
+                "ID_": "",
+                "NAME1_": "DELAI Camp",
+                "NAME2_": "Existing",
+                "STATUS": "Active"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    26.642154990443938,
+                    -14.454769133411004
+                ]
+            },
+            "properties": {
+                "ID_": "",
+                "NAME1_": "Kalonga Waloba",
+                "NAME2_": "Existing",
+                "STATUS": "Active"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    26.685468675181575,
+                    -14.459294443756729
+                ]
+            },
+            "properties": {
+                "ID_": "",
+                "NAME1_": "Kapuluse Cottage Camp",
+                "NAME2_": "Existing",
+                "STATUS": "Active"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    26.58205574,
+                    -14.460326000000002
+                ]
+            },
+            "properties": {
+                "ID_": "",
+                "NAME1_": "Kashikoto Camp",
+                "NAME2_": "Existing",
+                "STATUS": "Active"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    26.127007684741358,
+                    -14.901563734468626
+                ]
+            },
+            "properties": {
+                "ID_": "",
+                "NAME1_": "",
+                "NAME2_": "",
+                "STATUS": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    25.82909,
+                    -15.86648
+                ]
+            },
+            "properties": {
+                "ID_": "",
+                "NAME1_": "Site 14",
+                "NAME2_": "Proposed",
+                "STATUS": "Inactive"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    25.78509,
+                    -15.8849
+                ]
+            },
+            "properties": {
+                "ID_": "",
+                "NAME1_": "Site 13",
+                "NAME2_": "Proposed",
+                "STATUS": "Inactive"
+            }
+        }
+    ]
+}
