@@ -1,9 +1,16 @@
 var $ = require('jquery');
+require('./leaflet.usermarker.js');
+
 
 
 $(function(){
 	var $select = $('select');
-	var map = L.map('map').setView([-15.4484, 26.142], 5);
+		var southWest = L.latLng(-16.5467, 23.8898),
+		    northEast = L.latLng(-12.5653, 29.4708),
+		    bounds = L.latLngBounds(southWest, northEast);
+	var map = L.map('map',{
+		maxBounds: bounds,
+	}).setView([-13.4484, 28.072], 10);
 
 	var geoJsons = require('./geojson/');
 	geoJsons.forEach(function(data){
@@ -39,10 +46,13 @@ $(function(){
 		}
 	});
 	
-	L.tileLayer('http://{s}.tile.thunderforest.com/outdoors/{z}/{x}/{y}.png', {
-	maxZoom: 18,
-	id: 'examples.map-i875mjb7'
+	//L.tileLayer('http://{s}.tile.thunderforest.com/outdoors/{z}/{x}/{y}.png', {
+	L.tileLayer('img/MapQuest/{z}/{x}/{y}.jpg', {
+		maxZoom: 14,
+		minZoom: 8,
+		id: 'examples.map-i875mjb7'
 	}).addTo(map);
+
 
 
 	var popup = L.popup();
@@ -56,4 +66,10 @@ $(function(){
 
 
 	map.on('click', onMapClick);
+
+	// example current position
+	var latLng = L.latLng(-15.7473, 27.2598);
+	var marker = L.userMarker(latLng, {pulsing:true, accuracy:250, smallIcon:true});
+	marker.addTo(map);
+
 });
